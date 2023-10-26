@@ -1,7 +1,5 @@
 <h3 align="center">Hi 👋 I'm Mert, an Android Developer 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Kotlin and Android**
-
 - 📫 How to reach me **mertnler113@gmail.com**
 
 <h3 align="left">Connect with me</h3>

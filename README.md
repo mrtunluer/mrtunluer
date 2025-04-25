@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<h3 align="left">Most Used Languages</h3>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtunluer&layout=compact&theme=default)
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
